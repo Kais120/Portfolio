@@ -1,0 +1,4 @@
+#main_photo img:hover {
+    opacity: 0.5;
+    transition: opacity 0.5s linear;
+}
